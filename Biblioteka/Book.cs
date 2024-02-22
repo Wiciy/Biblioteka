@@ -8,7 +8,7 @@ namespace Biblioteka
 {
     class Book
     {
-        //jezeli chcemy kategorie, to nie tworzymy kurwa nastepnej funkcji, tylko mozemy tutaj dodac atrybut
+        //jezeli chcemy kategorie, to nie tworzymy nastepnej funkcji, tylko mozemy tutaj dodac atrybut
         public string Tytul;
         public string Autor;
         public int RokWydania;
