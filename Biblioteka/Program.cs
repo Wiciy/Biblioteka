@@ -8,7 +8,7 @@ namespace Biblioteka
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             Library library1 = new Library();
             Borrow borrow1 = new Borrow();
